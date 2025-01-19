@@ -62,7 +62,7 @@ described on the card until something causes the whole group to perform a "*real
 **_Game Board_**: (Or, "*Game Map*"). The game board is a map divided into tiles which are large enough to contain
 resources and at least one Population Unit and one Territory Marker. There are some official and standard game boards, but
 players can actually play the game on any sort of map that meets the technical requirements of a game board as specified
-in the rool book.
+in the rule book.
 
 **_Resource Markers_**: Resource markers will typically be captured by players and kept within their controlled territories
 to increase the player's score as well as interacting with other dynamic game conditions.
