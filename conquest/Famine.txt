@@ -1,0 +1,57 @@
+# Famine
+
+* **Quantity in pack:**
+1
+* **Time in effect:**
+This Epoch
+
+## Instructions:
+Weapon payloads may only be used when there is a connected supply route to its corresponding resource.
+
+Remove any other famine.
+
+>@
+
+# Wood Famine
+
+* **Quantity in pack:**
+1
+* **Time in effect:**
+This Epoch
+
+## Instructions:
+Torch payloads may only be used when there is a connected supply route to a wood resource.
+
+Remove any other famine.
+
+>@
+
+# Stone Famine
+
+* **Quantity in pack:**
+1
+* **Time in effect:**
+This Epoch
+
+## Instructions:
+Bludgeon payloads may only be used when there is a connected supply route to a stone resource.
+
+Remove any other famine.
+
+>@
+
+# Metal Famine
+
+* **Quantity in pack:**
+1
+* **Time in effect:**
+This Epoch
+
+## Instructions:
+Blade payloads may only be used when there is a connected supply route to a metal resource.
+
+Remove any other famine.
+
+>@
+
+
