@@ -14,12 +14,6 @@ of steps, but they progress quickly. In the sections that follow, you will read 
 a players and the game scenario, then "contest" which is the main game stage that repeats until the end-game,
 and then final stages for determining victory conditions.
 
-## About PRS Conquest
-
-Conquest is a game that should be accessible to play by primary school aged children and challenging for
-experienced strategists and tacticians alike. The spirit of the game is based on the amorality of geopolitical
-contests and the conflicts that arise in the pursuit of party interests even when those interests are dissimilar.   
-
 # Playing the Game
 
 ## Game Stage: Setup
