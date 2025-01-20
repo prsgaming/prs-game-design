@@ -34,13 +34,14 @@ Power Resource & Strategy designs games and entertainment that bring joy, inspir
 
 ## Licensing Principles
 
-All entertainment products and content (excluding identity trademarks) are intended to be released to the public domain on a structured timeline.
+All entertainment products and content (excluding identity trademarks) are intended to be released to the public domain on a structured timeline as development objectives are met.
 
 ### Licensing Strategy
 
-  * Gradual Rollout: Some products and expansions may undergo an initial phase of restricted development to protect creators' visions and ensure quality.
-  * Transition to Openness: Over time, these products will shift to permissive licensing to encourage widespread use and adaptation, while preserving the integrity of the original designs.
-  * Community Support: Exceptions will be made to provide access to underserved communities during the transition period.
+  * By default all content within this repository is licensed with Creative Commons "Attribution-NonCommercial-NoDerivatives".
+    * This means you may download, print, play the game and come back with suggestions, you can share it with attribution, but you cannot change it or sell it.
+  * Gradual Loosening: Works undergo this initial phase of restrive licensing to protect the creators' visions and ensure quality and brand integrity.
+  * Transition to Openness: Over time, these products will shift to permissive licensing to encourage widespread use and adaptation, while preserving the integrity of the original designs.  
 
 ## Commitment to Openness and Inclusion
 
