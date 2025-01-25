@@ -60,7 +60,6 @@ A _tile_ is a location in the map that can harbor population units and resources
 ## **Borderland**
 A _borderland_ is any edge between a pair of tiles, and is distinct to exactly two tiles.
 
-
 # Rules
 
 ## Tiles
@@ -80,6 +79,8 @@ A _contested_ tile is one that contains or is straddled by game pieces belonging
 ### **Uncontested Tile**
 An _uncontested_ tile is one that contains or is straddled by game pieces belong to exactly one player.
 
+## **Territory**
+A _territory_ is any number of contiguously controlled tiles (including one single tile).
 
 # Common Effects
 

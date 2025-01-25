@@ -1,8 +1,8 @@
 # Power Resource & Sovereignty: Conquest
 
-Conquest is a game that should be accessible to play by primary school aged children and challenging for
-experienced strategists and tacticians alike. The spirit of the game is based on the amorality of geopolitical
-contests and the conflicts that arise in the pursuit of party interests even when those interests are dissimilar.   
+Conquest is a game that is throught provoking and challenging for newcomers and experienced strategists and tacticians.
+The spirit of the game is based on the amorality of geopolitical contests and the conflicts that arise in the pursuit
+ of party interests even when those interests are dissimilar.
 
 Get started at learning the game with these guides:
 
@@ -21,7 +21,6 @@ Standard Game Content:
  * [Diplomatic Engagements](./Game-Packs/Global-Contest/Diplomatic-Engagements)
  * [Global Situations](./Game-Packs/Global-Contest/Global-Situations)
  * [Edicts](./Game-Packs/Global-Contest/Edicts)
-
 
 ---
 
