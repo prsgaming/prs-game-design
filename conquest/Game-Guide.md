@@ -54,7 +54,7 @@ The following are pieces that players will interact with throughout the course o
 With no overriding effects by Global Situations and Edicts, players earn one point for each of the following:
 
  * Territory Markers on the board
- * Resource Markers in their territories
+ * Resource Tokens in their territories
 
 Cards with effects on end-game points will describe other ways points are gained or lost.
 

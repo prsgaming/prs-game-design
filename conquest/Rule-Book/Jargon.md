@@ -32,16 +32,16 @@ resources and at least one Population Unit and one Territory Marker. There are s
 players can actually play the game on any sort of map that meets the technical requirements of a game board as specified
 in the rule book.
 
-## **Resource Markers**
- Resource markers will typically be captured by players and kept within their controlled territories
+## **Resource Tokens**
+ Resource tokens will typically be captured by players and kept within their controlled territories
 to increase the player's score as well as interacting with other dynamic game conditions.
 
 ## **Population Units**
  (Or, "*Military units, units, pawns*"). Population units are the primary game piece that players
 move around the board to fulfill their objectives.
 
-## **Payload Carriers**
- (Or, "*Weapons*"). Payload carriers are secretly placed beneath population units prior to
+## **Weapon Carrier**
+ (Or, "*Weapons, Payload Carrier*"). Weapon carriers are secretly placed beneath population units prior to
 mobilizing those units throughout the board. When units encounter one another, they will engage in combat by displaying
 the secretly placed payload to determine the victor of that encounter.
 
