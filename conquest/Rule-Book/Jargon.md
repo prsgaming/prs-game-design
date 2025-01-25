@@ -82,6 +82,10 @@ An _uncontested_ tile is one that contains or is straddled by game pieces belong
 ## **Territory**
 A _territory_ is any number of contiguously controlled tiles (including one single tile).
 
+## Combat
+### **Defender**
+A _defender_ is a population unit who clearly controls (or controlled, if advancing off) a tile prior to mobilization.
+
 # Common Effects
 
 ## **Effect**

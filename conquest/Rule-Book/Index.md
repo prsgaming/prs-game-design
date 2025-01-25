@@ -28,6 +28,36 @@ As a tip, you can stay organized by keeping your stacks of the same type of reso
 
 #### Preparation
 
+#### Mobilization
+
+#### Combat
+
+##### Resolution
+
+Combat is considered "resolved" once players figure out the results of a battle.
+
+##### Victory & Defeat
+
+##### Resolving more than 2 units
+
+There will be times when more than 2 units are engaged in the same battle. It's even possible for this to occur
+with units all fighting multiple fronts, since they invade on borderlands.
+
+Players will take turns deciding which pair of units will combat, and resolve those combats until the entire
+battle is resolved. To do this, the player with "First Strike" needs to be identified.
+
+##### "First Strike"
+
+First strike is determined by coin flip or RPS when there is not a clear defender.
+
+If there is a clear defender, that defender always has first strike.
+
+If there is a long chain of units involved in multiple fronts, first resolve all the battles in which there
+is one clear defender, and work your way down the path from there until all battles are resolved.
+
+If the chain is a cycle or any other scenarios makes it impossible to identify a pure defender, parties coin flip
+or RPS to determine first strike.
+
 #### Loading Weapon Payloads
 
 ##### Common Effects
@@ -41,12 +71,6 @@ In drought & famine, a weapon may only be used in combat if the necessary resour
 ### Endgame Conditions
 
 ### Scoring
-
-# Combat
-
-## Resolution
-
-Combat is considered "resolved" once players figure out all the winners and losers.
 
 # Scoring
 
