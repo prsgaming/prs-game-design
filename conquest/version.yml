@@ -1,0 +1,16 @@
+# Edition & Revision are the *upcoming* release to which contributions are being made.
+# Whenever a revision is published, this file must be updated to the next increment.
+
+# Changes to the game play, additions and removals of game-impacting content or game piece
+# compatibility should be reserved for next editions.
+
+# Changes to language and artworks that improve aesthetics, add clarity or flavor, or other
+# housekeeping needs may be included in revisions.
+
+# As a general rule, once we advance an edition, we will not make revisions to previous
+# editions, because the cost of production should be comparable between any edition & revision.
+
+# Edition is a whole number starting with 1 (except during incubation, when it is 0).
+edition: 0
+# Revision is lowercase alphabetical starting with "a", restarting per each edition.
+revision: a
