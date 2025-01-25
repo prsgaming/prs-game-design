@@ -2,7 +2,7 @@
 
 ## Enters
 
-Public or Secret
+Secret
 
 ## Class
 
