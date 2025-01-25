@@ -34,7 +34,12 @@ A "General Famine" is in effect by default. This means units must have a supply 
 in order to combat with the corresponding weapon type, and if that combat takes place, that resource
 is removed from the board.
 
-Droughts to not replace the general famine, but they may make it easier to use a certain weapon.
+Droughts do not replace the general famine, but they may make it easier to use a certain weapon. For
+example a "Wood Drought" means that the unit needs a supply line to a wood resource, but it is not
+removed from the game. This has no effect on other resources, unless their droughts appear as well.
+
+Surplusses are introduced. They enable players to be able to use weapons in combat without any possession
+of its corresponding resource.
 
 # Railways
 
