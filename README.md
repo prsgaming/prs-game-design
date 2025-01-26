@@ -1,6 +1,6 @@
-# Power Resource & Strategy - Central Design Repository
+# Power Resource & Sovereignty - Central Design Repository
 
-Welcome to the central repository for all game design within the Power Resource & Strategy suite of products. This repository serves as the definitive guide for design principles, gameplay mechanics, and product strategies.
+Welcome to the central repository for all game design within the Power Resource & Sovereignty suite of products. This repository serves as the definitive guide for design principles, gameplay mechanics, and product strategies.
 
 ## Contents
 
@@ -30,7 +30,7 @@ We strive to create a community-driven gaming ecosystem, prioritizing accessibil
 
 ## Our Mission
 
-Power Resource & Strategy designs games and entertainment that bring joy, inspire strategy and critical thinking, and share valuable lessons with players of all skill levels. We commit to transparency in our business practices to build trust, empower communities, and promote healthy competition.
+Power Resource & Sovereignty designs games and entertainment that bring joy, inspire strategy and critical thinking, and share valuable lessons with players of all skill levels. We commit to transparency in our business practices to build trust, empower communities, and promote healthy competition.
 
 ## Licensing Principles
 
@@ -49,6 +49,6 @@ Our goal is to ensure that everyone who wishes to enjoy a PRS game can do so wit
 
 ---
 
-"Power Resource & Strategy" is a trademark of Open Ascendance, LLC.
+"Power Resource & Sovereignty" is a trademark of Open Ascendance, LLC.
 
 Copyright 2025 Open Ascendance, LLC

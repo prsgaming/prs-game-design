@@ -24,6 +24,6 @@ Standard Game Content:
 
 ---
 
-*Power Resource & Strategy is a trademark of Open Ascendance LLC*
+*Power Resource & Sovereignty is a trademark of Open Ascendance LLC*
 
-*Power Resource & Strategy: Conquest is a copyright of Open Ascendance LLC, 2025*
+*Power Resource & Sovereignty: Conquest is a copyright of Open Ascendance LLC, 2025*
